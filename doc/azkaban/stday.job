@@ -1,0 +1,3 @@
+type=command
+command=sh stday.sh
+failure.emails=squareke473@gmail.com
